@@ -1,7 +1,7 @@
 
 "The California License Plate Game", or "Count to 24", is something I play while I am driving, particularly when stuck in traffic. 
 
-The general California license plate, showing above, is made of "nXXXnnn", where n is a number between 0 to 9 and 
+The general California license plate is made of "nXXXnnn", where n is a number between 0 to 9 and 
 X letter from A to Z. The game is to calculate to 24 with those 4 numbers by only using + - x /. 
 For example. the 4 numbers [6 2 4 4], could arrive 24 as 2 *(6+4) + 4. 
 Of course, there are certainly license plates that is impossible to do so, such as [6 2 5 0].
